@@ -1,0 +1,1419 @@
+{
+  "Oppgaver": [
+    {
+      "Tekst": "Hvem av disse har rett til gratis norskopplæring?",
+      "A": "Au pairer",
+      "B": "Flyktninger",
+      "C": "Arbeidsinnvandrere",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvem kan delta på Introduksjonsprogrammet?",
+      "A": "Nyankomne flyktninger over 18 år",
+      "B": "De fleste arbeidsinnvandrere",
+      "C": "Alle asylsøkere under 16 år",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er målet med arbeidspraksis for innvandrere?",
+      "A": "Å gjøre deltakeren kjent med norsk arbeidsliv",
+      "B": "Å skaffe deltakeren arbeidstillatelse",
+      "C": "Å få godkjent deltakerens utdanning",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva må du ha for å ha lønnet arbeid?",
+      "A": "Førerkort",
+      "B": "Skattekort",
+      "C": "Forsikringskort",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvilke av disse tjenestene har Nav har ansvar for?",
+      "A": "Barnetrygd",
+      "B": "Fritidstilbud",
+      "C": "Grunnskole",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva skjedde i 1940?",
+      "A": "Norge ble et selvstendig land.",
+      "B": "Norge fikk sin første president.",
+      "C": "Norge ble okkupert av Tyskland.",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Bosettingen i Norge endret seg siste halvdel av 1800-tallet. Hva skjedde?",
+      "A": "Mange flyttet fra byene til kysten.",
+      "B": "Mange flyttet fra landsbygda til byene.",
+      "C": "Mange flyttet fra kysten til landsbygda.",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Det blir inngått litt mer enn 20 000 ekteskap i Norge hvert år.\nHvor mange gifte par skiller seg hvert år?",
+      "A": "Cirka 5 000",
+      "B": "Cirka 10 000",
+      "C": "Cirka 15 000",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvem har hovedansvaret for barnas oppdragelse?",
+      "A": "Foreldrene",
+      "B": "Barnehagen",
+      "C": "Skolen",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Må begge partene i et ekteskap være enige for å kunne bli skilt?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": "Noen ganger",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvor lenge har foreldre plikt til å forsørge barna sine?",
+      "A": "Til barna er ferdig med grunnskolen",
+      "B": "Til barna har fått egen jobb",
+      "C": "Til barna har fylt 18 år",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Kari og Jens er skilt. De har to barn på fem og sju år.\nHvilke rettigheter har barna deres ifølge loven?",
+      "A": "Barna har rett til å bo sammen med hverandre.",
+      "B": "Barna har rett til å ha kontakt med begge foreldrene.",
+      "C": "Barna har rett til å velge hvem av foreldrene de vil bo hos.",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Mari vil melde seg inn i et politisk parti. Foreldrene er uenige i dette.\nHvor gammel må Mari være for å bestemme dette selv?",
+      "A": "12 år",
+      "B": "15 år",
+      "C": "18 år",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvem betaler for pasienter som er innlagt på norske sykehus?",
+      "A": "Pasienten",
+      "B": "Staten",
+      "C": "Forsikringsselskap",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvor mye betaler foreldre i Norge for vaksinasjonsprogrammet for barn?",
+      "A": "Ingenting",
+      "B": "Cirka 100 kr per vaksine",
+      "C": "Cirka 200 kr per vaksine",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hasan er 16 år.\nHan går til tannlegen en gang i året.\nHvor mye betaler han for vanlig tannbehandling?",
+      "A": "Hele kostnaden",
+      "B": "Halvparten av kostnaden",
+      "C": "Ingenting",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvem kan få fastlege?",
+      "A": "Alle innbyggere i Norge",
+      "B": "Alle voksne i Norge",
+      "C": "Alle barn i Norge",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvorfor bør kvinner gå til svangerskapskontroll?",
+      "A": "For å søke om barnetrygd",
+      "B": "For å sikre mor og barns helse",
+      "C": "For å få godkjent fødselspermisjon",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvem finansierer universitets- og høyskoleutdanning i Norge?",
+      "A": "Staten",
+      "B": "Familien",
+      "C": "Store firmaer",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Kari vil studere på universitetet. Hva er riktig?",
+      "A": "Hun må ha fylt 19 år.",
+      "B": "Hun må ha god økonomi.",
+      "C": "Hun må ha generell studiekompetanse.",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Når begynner barn normalt i første klasse på skolen?",
+      "A": "Det året de fyller 6 år",
+      "B": "Det året de fyller 7 år",
+      "C": "Det året de fyller 8 år",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Mary går i 8. klasse.\nHun har vært syk lenge og har problemer med å følge undervisningen i flere fag.\nHva skjer med Mary når neste skoleår starter?",
+      "A": "Hun må gå 8. klasse en gang til",
+      "B": "Hun får slutte med fagene hun strever med",
+      "C": "Hun fortsetter i 9. klasse",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva skal foreldre og skole samarbeide om?",
+      "A": "Barnas faglige og sosiale utvikling",
+      "B": "Barnas fritidsaktiviteter",
+      "C": "Barnas ukepenger",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvor mange prosent av de yrkesaktive i Norge jobber i det offentlige?",
+      "A": "Cirka. 30 %",
+      "B": "Cirka. 50 %",
+      "C": "Cirka. 70 %",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Det har skjedd store forandringer i arbeidsmarkedet i løpet av de siste 30 årene.\nHva er riktig?",
+      "A": "Færre jobber med industri og produksjon",
+      "B": "Flere jobber med fiske og jordbruk",
+      "C": "Bare kvinner jobber med handel og service",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er de viktigste inntektskildene til staten og kommunene?",
+      "A": "Skatter og avgifter fra privatpersoner og bedrifter",
+      "B": "Overføringer fra internasjonale organisasjoner",
+      "C": "Salg av varer og tjenester til andre land",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvilke var de viktigste næringene i Norge rundt år 1850?",
+      "A": "Jordbruk, skogbruk og fiske",
+      "B": "Industri og varetransport",
+      "C": "Handel og service",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "I hvilken sektor jobber de fleste i dagens Norge?",
+      "A": "Olje og gass",
+      "B": "Helse og omsorg",
+      "C": "Handel og service",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvor ofte er det stortingsvalg?",
+      "A": "Hvert år",
+      "B": "Hvert annet år",
+      "C": "Hvert fjerde år",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvor ofte har regjeringen møte med kongen?",
+      "A": "En gang i uken",
+      "B": "En gang i måneden",
+      "C": "En gang i året",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva heter den norske nasjonalforsamlingen?",
+      "A": "Departementet",
+      "B": "Regjeringen",
+      "C": "Stortinget",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Norge er et demokrati. Hva innebærer det?",
+      "A": "Folket bestemmer hvem som skal styre landet.",
+      "B": "De rike bestemmer hvem som skal styre landet.",
+      "C": "Domstolene bestemmer hvem som skal styre landet.",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvilke plikter har befolkningen i det norske velferdssamfunnet?",
+      "A": "Å betale skatt og oppgi riktig informasjon om seg selv",
+      "B": "Å betale skatt og gi penger til hjelpeorganisasjoner",
+      "C": "Å betale skatt og stemme ved alle politiske valg",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Alle innvandrere i Norge har plikt til å ta norskopplæring",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Det er oppholdstillatelsen som bestemmer\nom en innvandrer får gratis norskopplæring eller ikke",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "De som selv må betale for norskopplæring, må ta minimum 600 timer",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Nordiske borgere har ikke plikt til å gå på norskkurs",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Alle må slutte på norskkurs etter 600 timer",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Må en statsborger fra et EØS-land søke om oppholdstillatelse i Norge?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Får alle som har familie i Norge oppholdstillatelse automatisk?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Har alle utlendinger i Norge samme oppholdsgrunnlag?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Er det mulig å få oppholdstillatelse i Norge på bakgrunn av sterke menneskelige hensyn?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Er det mulig å søke asyl i Norge?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Kommer alle flyktninger til Norge gjennom FN-systemet?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Når fikk Norge egen grunnlåv?",
+      "A": "I 1350",
+      "B": "I 1814",
+      "C": "I 1905",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Når ble Norge en oljenasjon?",
+      "A": "I 1905",
+      "B": "I 1940",
+      "C": "I 1969",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Omtrent når var vikingitden?",
+      "A": "800 - 1050",
+      "B": "1350 - 1814",
+      "C": "1940 - 1945",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Når var Norge i union med Danmark?",
+      "A": "1350 - 1814",
+      "B": "1814 - 1905",
+      "C": "1905 - 1940",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Når var Norge okkupert av Tyskland?",
+      "A": "1840 - 1845",
+      "B": "1905 - 1910",
+      "C": "1940 - 1945",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Når var nasjonalromantikken?",
+      "A": "1000-tallet",
+      "B": "1500-tallet",
+      "C": "1800-tallet",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Når ble Norges union med Sverige oppløst?",
+      "A": "I 1905",
+      "B": "I 1945",
+      "C": "I 1969",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Norge har en statskirke",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Den norske kirken er romersk-katolsk",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Det er religionsfrihet i Norge",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Alle som bor i Norge, er medlem av et trossamfunn",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Det er flere buddhister enn muslimer i Norge",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Staten finansierer flere trossamfunn",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvem skal ha fødselsmelding når et barn blir født?",
+      "A": "Folkeregisteret",
+      "B": "Foreldrene",
+      "C": "Jordmoren",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvem har som regel hovedansvaret for et barn og barnets oppdragese?",
+      "A": "Skolen",
+      "B": "Foreldrene",
+      "C": "Barnehagen",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva er myndighetsalderen i Norge?",
+      "A": "12 år",
+      "B": "15 år",
+      "C": "18 år",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva sier barneloven om bruk av vold i oppdragelsen?",
+      "A": "Ingenting",
+      "B": "Det er forbudt",
+      "C": "Det er tillatt",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvor gammel må man være for å avgjøre sprøsmål om egen utdanning?",
+      "A": "15 år",
+      "B": "18 år",
+      "C": "20 år",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Du kan selv velge hvilken lege du vil ha som din egen fastlege",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Ingen legemidler selges uten resept",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Medisiner på blå resept er ekstra dyre for pasienten",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Alle norske statsborgere har rett til gratis tannlege",
+      "A": "Rett",
+      "B": "Galt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvis du blir lagt inn på sykehus i Norge, betaler du ikke egenandel?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Poliklinisk behandling betyr at du får behandling ved et sykehus,\nmen at du ikke er innlagt på sykehuset?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Du må betale en høyere egenandel hos legespesialist\n hvis du ikke har henvisning fra legen din?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Det er gratis å få behandling på legeakten?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Svangerskapskontroller er gratis?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Barnehage er obligatorisk for alle barn?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Under halvparten av alle barn går i barnehage?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Nesten 9 av 10 barn mellom 1 og 5 år går i barnehage?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Foreldrene betaler alt det koster å ha barn i barnehage?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Det er kommunen som betaler mye av utgiftene til barnehager?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Stortinget bestemmer et maksbeløp på hvor mye foreldrene skal betale for en barnehageplass?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Er virdregående skole obligatorisk?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Tar de fleste ungdommene vidregående skole?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Må elevene i virdregående skole kjøpe skolebøkene?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Det er det offentlige som betaler utgiftene til skolene?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Når ble det innført obligatorisk skolegang for alle barn i Norge?",
+      "A": "1500-tallet",
+      "B": "1700-tallet",
+      "C": "1900-tallet",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvor mange år er det obligatorisk å delta i opplæring i dag?",
+      "A": "7",
+      "B": "10",
+      "C": "13",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva var de viktigste næringene i Norge på 1800-tallet?",
+      "A": "Jordbruk, skogbruk og fiske",
+      "B": "Handel og industri",
+      "C": "Industri og service",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva var den viktigste næringen i Norge rundt år 1900?",
+      "A": "Olje og gass",
+      "B": "Handel",
+      "C": "Industri",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva jobber de fleste med i Norge i dag?",
+      "A": "Jordbruk, skogbruk og fiske",
+      "B": "Handel og service",
+      "C": "Olje",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Alle arbeidstakere i Norge har rett til arbeidskontrakt?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "En normal arbeidsuke er 25 timer?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Arbeidstakere i Norge har rett til minimum sju uker i løpet av et år?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Arbeidstakere i Norge har rett til å være\nborte fra jobben med full lønn ved egen eller barns sykdom?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Arbeidstakere som får barn, har rett til permisjon med lønn?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Arbeidstakere har rett til lønn under opplæring?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvor bestiller du skattekort?",
+      "A": "Hos politiet",
+      "B": "Hos skatteetaten",
+      "C": "Hos arbeidsgiver",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva kalles lønnen du får før skatt er trukket fra?",
+      "A": "Lønnsslipp",
+      "B": "Nettolønn",
+      "C": "Bruttolønn",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva kalles lønnen du får etter at skatt,\npensjonsinnbetaling og annet er trukket?",
+      "A": "Netto",
+      "B": "Lønnsslipp",
+      "C": "Bruttolønn",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Bedriften betaler ikke skatt til kommunen?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Trygdeutbetalinger er skattefrie?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Mesteparten av velferdssamfunnet i Norge er\nfinansiert av inntektene fra olje og gass?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Skatteinntekter er viktige for å finansierer velferdssamfunnet?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Det er staten og ikke kommunenen som har ansvaret\nfor driften av de fleste velferdsgodene?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Staten overfører penger til kommunene?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Foreldrene betaler alt det en barnehageplass koster?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Mesteparten av kommunens penger går til administrasjon?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Mesteparten av kommunens penger går til undervisning,\n helse- og omsorgstjenester og sosiale tjenester?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Gratis skolegang for alle barn er en:",
+      "A": "Rettighet",
+      "B": "Plikt",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Behandling på sykehus er en:",
+      "A": "Rettighet",
+      "B": "Plikt",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Betale skatt er en:",
+      "A": "Rettighet",
+      "B": "Plikt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Dagpenger ved arbeidsledighet er en:",
+      "A": "Rettighet",
+      "B": "Plikt",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Betale avgifter er en:",
+      "A": "Rettighet",
+      "B": "Plikt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Sørge for at barna går på skolen er en:",
+      "A": "Rettighet",
+      "B": "Plikt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Introduksjonsstønad er en:",
+      "A": "Rettighet",
+      "B": "Plikt",
+      "C": ":)",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Gi riktig informasjon om inntekt og livssituasjon:",
+      "A": "Rettighet",
+      "B": "Plikt",
+      "C": ":)",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Når var 2.verdenskrig i Norge?",
+      "A": "Fra 1900-1905",
+      "B": "Fra 1940-1945",
+      "C": "Fra 1970-1975",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvem er godkjenning av utenlandsk utdanning?",
+      "A": "Kommune",
+      "B": "Nav",
+      "C": "Nokut",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva heter Norges statsminister?",
+      "A": "Cecilie Knibe",
+      "B": "Jorum Elisbet",
+      "C": "Erna Solberg",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvor mange år må norske barn gå på skole?",
+      "A": "6 år",
+      "B": "7 år",
+      "C": "10 år",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvor mange årstider er det I Norge?",
+      "A": "3 årstider",
+      "B": "4 årstider",
+      "C": "5 årstider",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Flyktninger får tilbud om introduksjonsprogram i?",
+      "A": "550 timer",
+      "B": "5 år",
+      "C": "2 år",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Periode I kunst og kultur som ville vise fram det nasjonale på en positive måte?",
+      "A": "Nasjonalromatikk",
+      "B": "Realisme",
+      "C": "Naturalisme",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva innebærer en permanent oppholdstillatelse?",
+      "A": "Man kan bo og arbeide I Norge i 5 år",
+      "B": "Man kan bo og arbeide I Norge i inntil 10 år",
+      "C": "Man kan bo og arbeide I Norge så lenge man vil",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvorfor feirer vi nasjonaldagen 17. mai?",
+      "A": "Norge gikk ut av unionen med Sverige i 1905.",
+      "B": "Norges grunnlov ble vedtatt på Eidsvoll i 1814.",
+      "C": "Den norske kirke ble etablert.",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Nar er det første gang kvinne stemmerett I Norge?",
+      "A": "1814",
+      "B": "1913",
+      "C": "1930",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva betyr demokrati?",
+      "A": "Politiken styre",
+      "B": "Kongen og kvinne styre",
+      "C": "Folke styre",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Norge har en urbefolkning,\nog staten Norge er opprinnelig etablert på territoriet til to folk.\nHva er navnet på denne urbefolkningen?",
+      "A": "Samer",
+      "B": "Nordmenn",
+      "C": "Skogfinner",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvilke av disse tjenestene har Nav har ansvar for?",
+      "A": "Barnetrygd",
+      "B": "Fritidstilbud",
+      "C": "Grunnskole",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvilke land grenser Norge til?",
+      "A": "Danmark, Sverige og Finland ",
+      "B": "Sverige, Finland og Russland",
+      "C": "Island, Danmark og Sverige",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Makten er delt mellom storting,\nregjering og domstolene.\nHvilken makt ligger til hver av disse tre institusjonene?",
+      "A": "Folkets makt, embetsmennenes makt og dommernes makt",
+      "B": "Makten over kommunene, makten over staten og makten over politiet",
+      "C": "Den lovgivende, utøvende og dømmende makt",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva er målet med arbeidspraksis for innvandrere?",
+      "A": "Å gjøre deltakeren kjent med norsk arbeidsliv",
+      "B": "Å skaffe deltakeren arbeidstillatelse",
+      "C": "Å få godkjent deltakerens utdanning",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er riktig om videregående skole I Norge?",
+      "A": "Gratis",
+      "B": "Man betaler egen andel",
+      "C": "Man betaler selv alt",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva heter de tre største byene i Norge?",
+      "A": "Stavanger, Oslo, Tromsø",
+      "B": "Oslo, Bergen, Trondheim",
+      "C": "Bergen, Drammen, Trondheim",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvordan velges representantene til Stortinget?",
+      "A": "Hvert fylke er en valgkrets med et gitt antall plasser i Stortinget.\nAntall stemmer i hvert fylke avgjør hvor mange\nrepresentanter hvert parti får fra hvert fylke",
+      "B": "Partiene stiller lister nasjonalt, med lederen på førsteplass.\nPartiene får antall plasser etter hvor mange stemmer de\nfår nasjonalt",
+      "C": "Fylkestingene velger hvem som møte på Stortinget for hvert fylke",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er religionsfrihet?",
+      "A": "Regjering bestemmer",
+      "B": "Foreldre bestemmer",
+      "C": "Man kan velge a tro pa hva man vil",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvor kan man finne om arbeidsloven?",
+      "A": "Skatt",
+      "B": "Arbeidsmiljøloven",
+      "C": "NAV",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvem leder regjeringen?",
+      "A": "Statsministeren",
+      "B": "Ordføreren",
+      "C": "Kongen",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Når ble verdenserklæringen om menneskerettigheter vedtatt?",
+      "A": "I 1908",
+      "B": "I 1948",
+      "C": "I 2008",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Ytringsfriheten og religionsfriheten er beskyttet i Grunnloven.\nBetyr det at en norsk borger har rett til å kritisere en annen\nnorsk borgers tro?",
+      "A": "Ja, ytringsfriheten betyr at du kan både kritisere religioner og religiøse ledere",
+      "B": "Nei, religionsfriheten går over ytringsfriheten\n",
+      "C": "Nei, du har bare lov å kritisere og diskutere din egen religion",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva betyr svarte penger?",
+      "A": "De som jobber I private bedrift.",
+      "B": "De som jobber på natte og får extra penger.",
+      "C": "De som arbeider og får lønn uten å betale skatt.",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva er rett?",
+      "A": "I norge er det ikke så vanlig at barn går på private skoler",
+      "B": "Bare rike nordmenn sender barna sine på privatskoler ",
+      "C": "Svært mange barn går på private skoler i Norge",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er kongens rolle i konstitusjonen?",
+      "A": "Kongen bestemmer hvem som skal sitte i regjeringen",
+      "B": "Kongens rolle er i hovedsak representativ og sermoniell",
+      "C": "Han bestemmer over utenrikspolitikken",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva er viktigst oppgave for barnevern?",
+      "A": "Hjelpe familie og barn",
+      "B": "Kontrollere barnehage",
+      "C": "Godkjenne adopsjon fra utland",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Har en lærer lov til å bruke fysisk straff overfor elevene?",
+      "A": "Ja",
+      "B": "Nei",
+      "C": "Noen ganger",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Har to kvinner eller to menn lov til å inngå ekteskap?",
+      "A": "Ja, ekteskapsloven skiller ikke mellom ekteskap mellom to av samme kjønn,\nog ekteskap mellom mann og kvinne",
+      "B": "Nei, ekteskap er forbehold mann og kvinne.\nHomofile og lesbiske par kan inngå partnerskap",
+      "C": "Nei, ekteskap mellom to av samme kjønn er ikke\nlov i den norske kirke og dermed forbudt i Norge",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvis norsk lov strider mot din tro,\ninnebærer religionsfriheten at du har rett til å la troen gå over loven?",
+      "A": "Ja, alle borgere har rett til å utøve sin religion",
+      "B": "Nei, loven gjelder alle",
+      "C": "Nei, med unntak i familiespørsmål og innenfor husets fire vegger",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva heter Norges lengste fjord?",
+      "A": "Sognefjorden er Norges lengste og verdens nest lengste fjord",
+      "B": "Lysefjorden er Norges lengste fjord",
+      "C": "Oslofjorden er Norges lengste fjord",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Når man har jobb i Norge, har man rett på en arbeidskontrakt. Hva må stå i kontrakten?",
+      "A": "Regler for skatt",
+      "B": "Lønn og arbeidstid",
+      "C": "Tidligere arbeidserfaring",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Har en kvinne og en mann lik rett til å ta ut separasjon og dermed skilsmisse?",
+      "A": "Nei, mannen må akseptere skilsmissen først",
+      "B": "Ja, loven skiller ikke mellom kvinner og menn når det gjelder skilsmisser",
+      "C": "Ja, hvis kvinnen kan bevise at mannen ikke har\noppfylt forpliktelsene i ekteskapet så er rettighetene like",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvilken religion er skrevet inn i den norske Grunnloven?",
+      "A": "Ingen. Norge er en sekulær stat",
+      "B": "Den romersk-katolske religion, som var størst i Norge i 1814",
+      "C": "Den evangelisk-lutherske religion",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvem må ha skattekort?",
+      "A": "Alle som jobber og får lønn",
+      "B": "Man tjener over 60,000/år",
+      "C": "Man tjener over 100,000/år",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvilke tre offisielle skriftspråk er det i Norge?",
+      "A": "Bokmål, nynorsk og engelsk",
+      "B": "Bokmål, nynorsk og et valgfritt",
+      "C": "Norsk (bokmål og nynorsk som sidestilte målformer) og samisk",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva er riktig?",
+      "A": "Alle barn mellom 0-16 år får tilbud om gratis helsekontroll",
+      "B": "Ingen barn I skolealder får tilbud om gratis helsekontroll",
+      "C": "Bare barn mellom 0-6 år får tilbud om gratis helsekontroll",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvem har hovedansvaret for å skaffe folk jobb i Norge?",
+      "A": "Nav",
+      "B": "Staten",
+      "C": "Folk selv",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva er de tre viktigste næringene i Norge?",
+      "A": "Papir, petro/kjemiske produkter og trevarer",
+      "B": "Næringsmidler, petro/kjemiske produkter og maskiner/utstyr",
+      "C": "Tekstiler/bekledning, petro/kjemiske produkter og forlag/grafisk",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva heter Norges lengste elv?",
+      "A": "Pasvikelva",
+      "B": "Otra",
+      "C": "Glomma",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva er den første linjen i nasjonalsangen?",
+      "A": "Ja, vi elsker dette landet, som det stiger fram, furet, værbitt over vannet, med de tusen hjem",
+      "B": "Ja, så hvit som det hvite er snøen, og det røde har kveldssola fått,\nog det blå ga sin farge til breen, det er Norge i\nrødt, hvitt og blått",
+      "C": "Gud sign vår konge god! Sign ham med kraft og mot, sign hjem og slot",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvor mange fylker er Norge delt inn i?",
+      "A": "5",
+      "B": "11",
+      "C": "529",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva er NAV ansvars for?",
+      "A": "Hjelper folket til å få fullført videregående",
+      "B": "Hjelper folket til komme i arbeid",
+      "C": "Hjelper folket til å søke dagpenger ",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva heter Norges konge?",
+      "A": "Olav 5",
+      "B": "Harald 5",
+      "C": "Haakon 7",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva slags styreform har Norge?",
+      "A": "Moarki",
+      "B": "Republikk",
+      "C": "Diktatur",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvor kan man bytte fastlege?",
+      "A": "Ved helsestasjonen",
+      "B": "På nettstedet MinFastlege",
+      "C": "Hos folkeregisteret",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva heter Norges høyeste fjell?",
+      "A": "Glittertinden",
+      "B": "Snøhetta",
+      "C": "Galdhøpiggen",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Den første jernbanen I Norge åpnet i?",
+      "A": "I 1754",
+      "B": "I 1854",
+      "C": "I 1954",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvilken del har fylkeskommunen ansvaret for?",
+      "A": "Skole",
+      "B": "Eldreomsorg",
+      "C": "Videregående",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvilket oljefelt har vært lengst i produksjon i Norge?",
+      "A": "Trollfeltet",
+      "B": "Ekofiskfeltet",
+      "C": "Statfjordfeltet",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva betyr likestilling?",
+      "A": "Det betyr at men og kvinner er helt like",
+      "B": "Det betyr at all mennesker må jobbe like mye",
+      "C": "Det betyr at all mennesker,\nunansett alder, kjønn og etnisitet,\nskal ha like rettigheter og muligheter",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva sier straffeloven om foreldre som presser eller truer barna sine til å inngå ekteskap?",
+      "A": "De kan få inntil seks års fengsel",
+      "B": "De får en advarsel første gang",
+      "C": "De vil få svært store bøter",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvis du kan norsk,\nhvilke to andre skandinaviske språk ligger så nært norsk\nat du vil kunne lese og forstå det meste av dem?",
+      "A": "Islandsk og dansk",
+      "B": "Finsk og svensk",
+      "C": "Dansk og svensk",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hva betyr rettsikkerhet?",
+      "A": "Det betyr at ingen har rett på sikkerhet",
+      "B": "Det betyr at ingen kan dømes til fengsel uten en rettsak",
+      "C": "Det betyr at domstolene må finne gode løsninger for de kriminelle",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva er riktig I 1969?",
+      "A": "Det ble funnet olje i havet utenfor Eskimo",
+      "B": "Det ble funnet gass under sjøen",
+      "C": "Det ble funnet fossiler i dalen",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Når er påsken (Kristen høytid)?",
+      "A": "I desember",
+      "B": "I mars/april",
+      "C": "I mai",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva er gjennomsnittsalderen til de som gifter seg for første gang i Norge?",
+      "A": "Ca 20 år",
+      "B": "Ca 30 år",
+      "C": "Ca 40 år",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva er et velferdssamfunn?",
+      "A": "Et samfunn der det offentlige hjelper innbyggerne med helse utdanning og god levestandard",
+      "B": "Et samfunn der det offentlige hjelper innbyggerne med flotte bygninger,\nen god job og fritidstilbud",
+      "C": "Et samfunn der du må hjelpe din familie utena få hjelp fra Staten",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvem skal betale hvis en flyktning har behov for tolk?",
+      "A": "Det offentlige skal betale",
+      "B": "Flyktningen må betale selv",
+      "C": "Rode Kors betaler det meste",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvem bestemmer den som skal sitte på stortinget?",
+      "A": "Alle som har stemt for den stortingsvalg",
+      "B": "Kongen og nær arbeiderne som han jobber med",
+      "C": "Stortinget valger selv",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva hører til 8 mars?",
+      "A": "Kvinnedagen",
+      "B": "Fødselsdag",
+      "C": "Nyttårsdag",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er staten lånekasse oppgave?",
+      "A": "Bank som studenter kan lånen penger for studere",
+      "B": "Statens bank som gir gratis penger til studenter",
+      "C": "Statens bank som studenter kan åpen alt",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvor mange prosent er kvinner ved høyere utdanning i Norge?",
+      "A": "Over 60%",
+      "B": "Ca. 20%",
+      "C": "Ca. 40%",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Representanter til Stortinget velges fra?",
+      "A": "Politiske partier",
+      "B": "Høyesterett",
+      "C": "Regjeringen",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvem er målgruppa for introduksjonsprogrammet?",
+      "A": "Alle asylsøkere mellom 18 og 55 år",
+      "B": "Alle flyktninger mellom 18 og 55 år",
+      "C": "Alle innvandrere mellom 18 og 55 år",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvorfor feirer vi 17. mai?",
+      "A": "Det er Norge nasjonaldag",
+      "B": "Det er arbeidernes dag",
+      "C": "Det er kongens fødselsdag",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvilken dag er 1.mai?",
+      "A": "Nasjonaldag",
+      "B": "Bryllupdag",
+      "C": "Arbeidernesdag",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvis du skal flytte, hvor må du ta kontak?",
+      "A": "NAV",
+      "B": "Politi",
+      "C": "Folkeregisteret",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Hvem skal besteme abort I svangerskap I perioder for 13 uke?",
+      "A": "Fastlegen",
+      "B": "Kvinne og man ma vare enig sammen",
+      "C": "Kvinne selv",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Robin har fått jobb i en butikk. Han skal ha en arbeidskontrakt.\nNår skal han senest ha fått kontrakten?",
+      "A": "Når arbeidsgiveren bestemmer seg for det",
+      "B": "Etter en prøvetid på tre uker",
+      "C": "Når han begynner i jobben",
+      "Fasit": "C"
+    },
+    {
+      "Tekst": "Når må man melde fra til folkeregister?",
+      "A": "Når man skal flytte eller gifte seg",
+      "B": "Når man skal arbeide",
+      "C": "Når man skal gå på skole",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvor mange bor i Norge?",
+      "A": "Det bor rundt fire millioner mennesker i Norge",
+      "B": "Det bor rundt fem millioner mennesker i Norge",
+      "C": "Det bor rundt seks millioner mennesker i Norge",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva er riktig om barnevaksineprogrammet I Norge?",
+      "A": "Foreldre som skal bestemme",
+      "B": "Det er obigatorisk for alle barn",
+      "C": "Barnevaksineprogrammet er gratis bare for familien som har som for lite penger",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er riktig om kvinne omskjæring I Norge?",
+      "A": "Det er straffbart",
+      "B": "Foreldre som skal bestemme",
+      "C": "Det følger den kulturen som man har hadd fra før",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvem har hovedansvaret for velferdsordningene i Norge?",
+      "A": "Store private firmaer",
+      "B": "Stat og kommune",
+      "C": "Frivillige organisasjoner",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "I det norske velferdssystemet har befolkningen økonomiske rettigheter.\nHva er eksempler på slike rettigheter?",
+      "A": "Sykepenger, dagpenger, introduksjonsstøtte og barnetrygd",
+      "B": "Sykepenger, dagpenger, introduksjonsstøtte og god lønn",
+      "C": "Sykepenger, dagpenger, introduksjonsstøtte og lav skatt",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er riktig om legens taushetsplikt?",
+      "A": "Legen kan ikke skrive i pasientens journal",
+      "B": "At legen ikke kan dele informasjon til andre uten at pasienten er enig",
+      "C": "Legen kan fortelle om pasients diagnose til noen",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hva er riktig om legens taushetsplikt?",
+      "A": "Legen kan ikke skrive i pasientens journal",
+      "B": "At legen ikke kan dele informasjon til andre uten at pasienten er enig",
+      "C": "Legen kan fortelle om pasients diagnose til noen",
+      "Fasit": "B"
+    },
+    {
+      "Tekst": "Hvor mye betaler man som er voksen for vanlig til faslegen?",
+      "A": "Egenandel",
+      "B": "Ingenting",
+      "C": "Hele beløpet",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva kaller vi nasjonaldrakten I Norge?",
+      "A": "Bunader",
+      "B": "Bunald",
+      "C": "Sagadrakt",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva er hovedoppgaven til domstolene?",
+      "A": "Å døme etter lovene",
+      "B": "Å døme etter det regjeringen vil",
+      "C": "Å døme etter det Stortinget vil",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Når du flytter, må du gi melding til folkeregisteret?",
+      "A": "Innen åtte dager",
+      "B": "Innen et halvt år",
+      "C": "Innen et år",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Kongen som samlet Norge til et land heter?",
+      "A": "Harald hårfagre",
+      "B": "Haakon den gode",
+      "C": "Olav den hellige",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvilket av punktene under er regjerigens oppgave?",
+      "A": "Å foreslå nye lover og endringer i lovene",
+      "B": "Å døme kriminelle",
+      "C": "Å vedta mye lover og forandre gamle lover",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva betyr likestilling?",
+      "A": "Det betyr at alle mennesker, uansett alder, kjønn og etnisitet,\nskal ha like rettigheter og muligheter",
+      "B": "Det betyr at men og kviner er helt like",
+      "C": "Det betyr at allmennesker må jobbe like mye",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvilke organisasjoner er Norge medlemmer?",
+      "A": "NATO og FN",
+      "B": "FN og EU",
+      "C": "EU og NATO",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvor kan man søke om studieplass på høyskoler og universiteter?",
+      "A": "www.samordnaopptak.no",
+      "B": "Sende melding til universitet",
+      "C": "Søke på sine egne",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hvordan vi kan unngå livsstilssykdom?",
+      "A": "Spise sunt og være fysisk aktiv",
+      "B": "Fravær av sykdom",
+      "C": "Trives med livet",
+      "Fasit": "A"
+    },
+    {
+      "Tekst": "Hva kreves for å ta familien til norge?",
+      "A": "Man må ha bolig og kunne forsørge familien",
+      "B": "Man må ha skole og kunne forsørge familie",
+      "C": "Man må ha hotell og kunne forsørge familie",
+      "Fasit": "A"
+    }
+  ]
+}
+
