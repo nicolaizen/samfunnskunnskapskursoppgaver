@@ -4,7 +4,8 @@ Et lite program for å øve til samfunnskunnskapskurs prøven. Vært obs på at 
 
 ![alt text](https://github.com/nicolaizen/samfunnskunnskapskursoppgaver/blob/main/samfunnkunskapskurspr%C3%B8ve.png?raw=true)
 
-Installasjon:
+##Installasjon:
+
 For at programmet skal fungere må du installere python3. Følgende link kan benyttes:
 https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
  
