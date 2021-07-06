@@ -68,7 +68,7 @@ def alternativ_boks(svar_tekst, y_posisjon, korrekt_svar):
 
 def neste_knapp():
     button = tk.Button(text="Neste", command=sett_opp_oppgave, bg='white', fg='black', font=('helvetica', 16, 'bold'))
-    canvas.create_window(500, 650, window=button)
+    canvas.create_window(500, 590, window=button)
 
 
 def score():
@@ -96,8 +96,10 @@ def score():
 
 
 def sett_opp_oppgave():
-    oppgaver = finn_oppgaver()
-    oppgave = oppgaver[randrange(len(oppgaver))]
+    global oppgaver
+
+    oppgave = oppgaver[total % len(oppgaver)]
+    # oppgave = oppgaver[randrange(len(oppgaver))]
 
     canvas.delete("all")
     create_oppgave_tekst(oppgave.Tekst)
@@ -121,19 +123,24 @@ def sett_opp_oppgave():
     svar_avgitt = False
 
     score()
-    # neste_knapp()
 
 
 def finn_oppgaver():
+    global oppgaver
     with open("samfunnkunskapsprøve.json", encoding='utf-8') as jsonFile:
         oppgaver = (json.loads(jsonFile.read(), object_hook=lambda d: SimpleNamespace(**d))).Oppgaver
         jsonFile.close()
         return oppgaver
 
 
+oppgaver = finn_oppgaver()
+
+
 def main():
     global svar_avgitt
     svar_avgitt = False
+    global oppgaver
+    shuffle(oppgaver)
     sett_opp_oppgave()
     root.mainloop()
 
